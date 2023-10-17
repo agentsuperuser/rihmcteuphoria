@@ -8,7 +8,7 @@ const Header = () => {
         <a href='#'>
           <img className='lg:h-24 lg:w-24 h-16 w-16' src={Logo} />
         </a>
-        <button className='btn btn-sm font-bold'>Book Shows</button>
+        <a href="https://wa.me/918136986690/"><button className='btn btn-sm font-bold'>Book Shows</button></a>
       </div>
     </div>
   </header>;
