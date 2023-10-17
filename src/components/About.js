@@ -16,7 +16,7 @@ const About = () => {
               <h2>01-11-2023 & 02-11-2023</h2>
             </div>
             <div>
-              <button className='text-lg btn p-2'>Contact us</button>
+              <a href="https://instagram.com/euphoria_rihmct"><button className='text-lg btn p-2'>Contact us</button></a>
             </div>
           </div>
         </div>
