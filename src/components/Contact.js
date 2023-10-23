@@ -11,7 +11,7 @@ const Contact = () => {
     <div class="lg:w-1/2 md:w-2/3 mx-auto">
       <div class="flex flex-wrap -m-2">
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-          <a class="text-indigo-500 font-semibold" href="euphoriarihmct@gmail.com">euphoriarihmct@gmail.com</a>
+          <a class="text-indigo-500 font-semibold" href="https://euphoriarihmct@gmail.com">euphoriarihmct@gmail.com</a>
           <p class="leading-normal font-medium text-white my-5">Rajadhani Institute of Hotel Management & Catering Technology
             <br/>Nedumparambu P O, Nagaroor, Kerala 695102
           </p>
