@@ -13,10 +13,12 @@ const About = () => {
           <div>
             <div></div>
             <div className='text-[20px] lg:text-[40px] font-tertiary text-gradient mb-2 py-3'>
-              <h2>01-10-2023 to 02-10-2023</h2>
+              <h2>01-11-2023 to 02-11-2023</h2>
             </div>
             <div>
-              <button className='text-lg btn p-2'>Contact us</button>
+              <a href="https://instagram.com/euphoria_rihmct">
+                <button className='text-lg btn p-2'>Contact us</button>
+              </a>
             </div>
           </div>
         </div>
